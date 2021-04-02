@@ -1,2 +1,2 @@
-# Exercicios-C
-Resolução de exercícios em C++
+# Beginner Exercises
+Resolução de exercícios para iniciantes em C++
