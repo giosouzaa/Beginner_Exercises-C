@@ -1,5 +1,8 @@
 /*
-Urilizando o comando for, peça ao usuário um número inteiro e imprima na tela sua tabuada de 0 a 10.
+
+006 - Tabuada com for
+	Urilizando o comando for, peça ao usuário um número inteiro e imprima na tela sua tabuada de 0 a 10.
+
 */
 
 #include<stdio.h>
@@ -11,9 +14,10 @@ main(){
   
 	printf("\nInsira um numero inteiro:\n");
 	scanf("%d",&n);
+	
 	printf("\nTabuada do numero %d:\n\n",n);
 
-  for(i=0;i<=10;i++){
+  	for(i=0;i<=10;i++){
 		p=n*i;
 		printf("%dx%d=%d\n",n,i,p);
 	}
