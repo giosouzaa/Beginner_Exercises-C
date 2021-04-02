@@ -1,6 +1,10 @@
 /*
-Peça ao usuário que preencha um vetor do tipo char e, em seguida, peça que ele insira um caractere para a alise.
-Analise cada elemento do vetor e indique se o caractere inserido está ou não contido no vetor. Se estiver, indique sua posição e quantas vezes ele aparece no vetor.
+
+003 - Analisando os elementos de um vetor do tipo char
+	Peça ao usuário que preencha um vetor do tipo char e, em seguida, peça que ele insira um caractere para a análise.
+	Analise cada elemento do vetor e indique se o caractere inserido está ou não contido no vetor. 
+	Se estiver, indique sua posição e quantas vezes ele aparece no vetor.
+	
 */
 
 #include<stdio.h>
