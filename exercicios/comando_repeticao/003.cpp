@@ -1,6 +1,6 @@
 /*
 
-004 - Números primos
+003 - Números primos
 	Peça ao usuário que insira um número inteiro e diga a ele se o número escolhido é primo ou não é.
 
 	Obs: Número primo é aquele que só é divisível por 1 e por ele mesmo.
