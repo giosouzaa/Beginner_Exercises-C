@@ -1,17 +1,23 @@
 /*
+
+005 - Somando números
 Peça ao usuário 4 números inteiros e positivos e realize a soma entre eles, retornando o resultado.
+
 */
 
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
 
-main ()
-{
+main (){
+	
 	int n,soma;
+	
 	printf("\nInsira 4 numeros inteiros e positivos para a soma:\n");
+	
 	soma=0;
 	int i=0;
+	
 	do{
 	scanf("%d",&n);
 	if(n>=0)
