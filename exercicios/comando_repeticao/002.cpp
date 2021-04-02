@@ -1,5 +1,8 @@
 /*
+
+002 - Números pares e ímpares
 Imprima na tela, em duas colunas, os números pares e os números ímpares de 1 a 20.
+
 */
 
 #include<stdio.h>
@@ -10,7 +13,7 @@ main(){
 	int i,n;
 	printf("\nImpares:\tPares:\n");
 	
-  for(i=1;i<=20;i++){
+  	for(i=1;i<=20;i++){
 		if(i%2==0)
 		printf("\t\t%d",i);
 		if(i%2!=0)
@@ -18,6 +21,7 @@ main(){
 	}
   
 	printf("\n\n");
+	
 	system ("pause");
 	return 0;
 }
