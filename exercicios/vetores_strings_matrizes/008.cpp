@@ -1,9 +1,11 @@
 /*
-Invertendo os elementos de uma matriz
+
+008 - Invertendo os elementos de uma matriz
   Peça ao usuário que insira 3 palavrasde 4 letras cada, um caractere de cada vez. 
   Em seguida inverta a posição dos elementos contidos na matriz e apresente o resultado.
   
   As palavras devem aparecer escritas de trás pra frente e em ordem invetida, ou seja, da terceira para a primeira.
+  
 */
 
 #include<stdio.h>
