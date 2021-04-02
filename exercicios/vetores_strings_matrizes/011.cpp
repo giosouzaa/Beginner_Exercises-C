@@ -1,6 +1,8 @@
 /*
-Multiplicação entre vetores e matrizes
+
+011 - Multiplicação entre vetores e matrizes
   Peça ao usuário que insira os elementos de um vetor e de uma matriz de números inteiros. Realize a multiplicação entre os dois e apresente o resultado.
+  
 */
 
 #include<stdio.h>
@@ -37,7 +39,7 @@ int main (){
 	}
 
 	printf("\n\n");
+	
 	system("pause");
-  
 	return 0;
 }
