@@ -1,5 +1,5 @@
 /*
-Urilizando a função for, peça ao usuário um número inteiro e imprima na tela sua tabuada de 0 a 10.
+Urilizando o comando for, peça ao usuário um número inteiro e imprima na tela sua tabuada de 0 a 10.
 */
 
 #include<stdio.h>
