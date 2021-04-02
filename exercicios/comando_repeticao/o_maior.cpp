@@ -1,5 +1,5 @@
 /*
-Utilizando a função while, peça ao usúario 10 números inteiros e retorne o maior entre eles.
+Utilizando o comando while, peça ao usúario 10 números inteiros e retorne o maior entre eles.
 */
 
 #include<stdio.h>
