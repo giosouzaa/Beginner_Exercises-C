@@ -1,5 +1,8 @@
 /*
-Imprima na tela os números pares de 1 a 20.
+
+001 - Números pares
+	Imprima na tela os números pares de 1 a 20.
+	
 */
 
 #include<stdio.h>
@@ -16,6 +19,7 @@ main  (){
 	}
   
 	printf("\n\n");
+	
 	system ("pause");
 	return 0;
 }
