@@ -1,6 +1,9 @@
 /*
+
+005 - Soma de vetores
 Crie dois vetores de números inteiros. No primeiro, insira os números pares de 1 a 20 e no segeundo, os ímpares. 
 Imprima na tela a soma dos vetores, somando os elementos com posição correspondente.
+
 */
 
 #include<stdio.h>
