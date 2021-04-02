@@ -1,6 +1,10 @@
 /*
-Crie um vetor de números inteiros com elementos já pré-definidos. Em seguida, analise cada elemento do vetor e imprima na tela a média aritmética dos elementos,
-quantos destes são múltiplos de 5, maiores que 10 e menores que 30. Por fim, indique o maior número do vetor.
+
+002 - Analisando os elementos de um vetor numérico
+	Crie um vetor de números inteiros com elementos já pré-definidos. Em seguida, analise cada elemento do vetor e imprima 
+	na tela a média aritmética dos elementos, quantos destes são múltiplos de 5, maiores que 10 e menores que 30. 
+	Por fim, indique o maior número do vetor.
+	
 */
 
 #include<stdio.h>
