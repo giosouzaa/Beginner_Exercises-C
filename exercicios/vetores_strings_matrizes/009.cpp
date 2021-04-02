@@ -1,6 +1,9 @@
 /*
-Soma de linhas e colunas
-  Peça ao usuário que insira os elementos de uma matriz de números inteiros. Realize a soma dos elementos da linha 1 e da coluna 2. Imprima o resultado na tela
+
+009 - Soma de linhas e colunas
+  Peça ao usuário que insira os elementos de uma matriz de números inteiros. Realize a soma dos elementos da linha 1 e da coluna 2. 
+  Imprima o resultado na tela.
+  
 */
 
 #include<stdio.h>
