@@ -1,6 +1,9 @@
 /*
-Peça ao usuário que insira os elementos de uma matriz 3X3 de números inteiros. 
-Em seguida multiplique a matriz por 2 e apresente o resultado da nova matriz.
+
+010 - Mulriplicação de uma matriz por um número
+	Peça ao usuário que insira os elementos de uma matriz 3X3 de números inteiros. 
+	Em seguida multiplique a matriz por 2 e apresente o resultado da nova matriz.
+	
 */
 
 #include<stdio.h>
