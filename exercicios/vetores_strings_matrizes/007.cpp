@@ -1,6 +1,9 @@
 /*
-Peça ao usuário que insira os elementos de uma matriz de números inteiros. 
-Em seguida, imprima a matriz na tela e indique a quantidade de números pares contidos nela.
+
+007 - Analisando os elementos de uma matriz
+	Peça ao usuário que insira os elementos de uma matriz de números inteiros. 
+	Em seguida, imprima a matriz na tela e indique a quantidade de números pares contidos nela.
+	
 */
 
 #include<stdio.h>
@@ -28,6 +31,7 @@ int main (){
 	}
   
 	printf("\nO numero de elementos pares da matriz eh %d\n\n",p);
+	
 	system("pause");
 	return 0;
 }
