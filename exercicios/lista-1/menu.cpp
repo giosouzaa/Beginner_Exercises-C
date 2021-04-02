@@ -1,5 +1,5 @@
 /*
-Utilizando a função switch, crie um menu com as opções Clientes, Fornecedores, Encomendas e Sair em que o usuário possa escolher uma das opções apresentadas. 
+Utilizando as funções do-whilhe e switch, crie um menu com as opções Clientes, Fornecedores, Encomendas e Sair em que o usuário possa escolher uma das opções apresentadas. 
 Enquanto ele não selecionar a opção Sair, continue apresentando o menu.
 */
 
@@ -7,17 +7,14 @@ Enquanto ele não selecionar a opção Sair, continue apresentando o menu.
 #include<stdlib.h>
 #include<math.h>
 
- main()
-{
+ main(){
 	int escolha;
 	
-	do
-	{
+	do{
 		printf("\nEscolha uma das opcoes:\n1-Clientes\n2-Fornecedores\n3-Encomendas\n4-Sair\n\n");
 		scanf("%d",&escolha);
 			
-		switch (escolha)
-		{ 
+		switch (escolha){ 
 			case 1:
 			printf("\nOpcao escolhida: 1-Clientes\n");
 			break;
