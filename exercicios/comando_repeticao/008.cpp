@@ -1,5 +1,8 @@
 /*
-Peça ao usúario um número inteiro e mostre a ele, do número 1 ao número inserido, quais números são seus divisores e quais não são.
+
+008 - Identificando divisores
+	Peça ao usúario um número inteiro e mostre a ele, do número 1 ao número inserido, quais números são seus divisores e quais não são.
+
 */
 
 #include<stdio.h>
@@ -7,9 +10,12 @@ Peça ao usúario um número inteiro e mostre a ele, do número 1 ao número ins
 #include<math.h>
 
 main(){
+	
 	int N,i;
+	
 	printf("\nInsira um numero inteiro:\n");
 	scanf("%d",&N);
+	
 	i=1;
 	
 	while(i<=N){
