@@ -1,7 +1,10 @@
 /*
-Peça ao usuário que digite o número de alunos que contém a turma. Em seguida, peça as notas de cada aluno, calcule a média aritmética das notas e imprima o resultado na tela.
+
+009 - Calculando a média
+	Peça ao usuário que digite o número de alunos que contém a turma. Em seguida, peça as notas de cada aluno, calcule a média aritmética das notas e imprima o resultado na tela.
 
 Obs: Média aritmética é uma média simples em que você apenas soma os valores e divide o resultado pelo número de elementos somados.
+
 */
 
 #include<stdio.h>
