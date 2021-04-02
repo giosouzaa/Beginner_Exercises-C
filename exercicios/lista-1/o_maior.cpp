@@ -1,5 +1,5 @@
 /*
-Peça ao usúario 10 números inteiros e o retorne o maior entre eles.
+Peça ao usúario 10 números inteiros e retorne o maior entre eles.
 */
 
 #include<stdio.h>
