@@ -1,2 +1,2 @@
 # :baby:Beginner Exercises
-Resolução de exercícios para iniciantes em C++
+Exercícios que resolvi na faculdade quando estava iniciando e conhecendo a linguagem C++
