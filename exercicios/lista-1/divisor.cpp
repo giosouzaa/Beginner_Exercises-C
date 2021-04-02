@@ -6,14 +6,13 @@ Peça ao usúario um número inteiro e mostre a ele, do número 1 ao número ins
 #include<stdlib.h>
 #include<math.h>
 
-main()
-{
+main(){
 	int N,i;
 	printf("\nInsira um numero inteiro:\n");
 	scanf("%d",&N);
 	i=1;
-	while(i<=N)
-	{
+	
+	while(i<=N){
 		if(N%i!=0)
 		printf("\n%d - nao divisor",i);
 		if(N%i==0)
@@ -21,6 +20,7 @@ main()
 		
 		i++;
 	}
+	
 	printf("\n\n");
 	system ("pause");
 	return 0;
