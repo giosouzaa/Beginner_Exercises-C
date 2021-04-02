@@ -1,5 +1,5 @@
 /*
-Utilizando as funções do-whilhe e switch, crie um menu com as opções Clientes, Fornecedores, Encomendas e Sair em que o usuário possa escolher uma das opções apresentadas. 
+Utilizando os comandos do-whilhe e switch, crie um menu com as opções Clientes, Fornecedores, Encomendas e Sair em que o usuário possa escolher uma das opções apresentadas. 
 Enquanto ele não selecionar a opção Sair, continue apresentando o menu.
 */
 
