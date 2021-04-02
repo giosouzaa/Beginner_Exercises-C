@@ -1,6 +1,10 @@
 /*
-Crie um vetor cujo conteúdo são 10 números inteiros. Peça ao usuário que insira um número inteiro e, em seguida, imprima na tela se este número está ou não contido no vetor.
-Caso esteja contido, indique sua posição.
+
+004 - Identificando um elemento e indicando sua posição
+	Crie um vetor cujo conteúdo são 10 números inteiros. Peça ao usuário que insira um número inteiro e, 
+	em seguida, imprima na tela se este número está ou não contido no vetor.
+	Caso esteja contido, indique sua posição.
+	
 */
 
 #include<stdio.h>
