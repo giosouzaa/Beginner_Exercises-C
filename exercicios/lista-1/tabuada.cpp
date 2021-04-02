@@ -1,5 +1,5 @@
 /*
-Crie um programa que peça que o usuário digite um número inteiro e, em seguida, apresente sua tabuada de 0 a 10.
+Urilizando a função whiele, crie um programa que peça que o usuário digite um número inteiro e, em seguida, apresente sua tabuada de 0 a 10.
 */
 
 #include<stdio.h>
