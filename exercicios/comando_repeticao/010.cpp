@@ -1,6 +1,10 @@
 /*
-Utilizando os comandos do-whilhe e switch, crie um menu com as opções Clientes, Fornecedores, Encomendas e Sair em que o usuário possa escolher uma das opções apresentadas. 
-Enquanto ele não selecionar a opção Sair, continue apresentando o menu.
+
+010 - Criando um menu de opções
+	Utilizando os comandos do-whilhe e switch, crie um menu com as opções Clientes, Fornecedores, 
+	Encomendas e Sair em que o usuário possa escolher uma das opções apresentadas. 
+	Enquanto ele não selecionar a opção Sair, continue apresentando o menu.
+	
 */
 
 #include<stdio.h>
@@ -8,6 +12,7 @@ Enquanto ele não selecionar a opção Sair, continue apresentando o menu.
 #include<math.h>
 
  main(){
+	 
 	int escolha;
 	
 	do{
@@ -31,8 +36,7 @@ Enquanto ele não selecionar a opção Sair, continue apresentando o menu.
 			printf("\nOpcao invalida\n");	
 		}			
 		
-	}
-	while (escolha!=4);
+	}while (escolha!=4);
 
 	system ("pause");
 	return 0;
