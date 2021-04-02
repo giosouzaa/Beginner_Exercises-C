@@ -1,5 +1,5 @@
 /*
-Urilizando a função whiele, crie um programa que peça que o usuário digite um número inteiro e, em seguida, apresente sua tabuada de 0 a 10.
+Urilizando a função while, crie um programa que peça que o usuário digite um número inteiro e, em seguida, apresente sua tabuada de 0 a 10.
 */
 
 #include<stdio.h>
@@ -9,6 +9,7 @@ Urilizando a função whiele, crie um programa que peça que o usuário digite u
 main(){
 
 	int n,i,p;
+	
 	printf("\nInsira um numero inteiro:\n");
 	scanf("%d",&n);
 	i=0;
