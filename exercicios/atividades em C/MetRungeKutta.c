@@ -1,7 +1,6 @@
 /*
 Nome:   Giovanna Maria de Souza                      25/06/2019
-	Kelvin dos Santos Alves
-	Rafaela Ferreira
+
  
 Trabalho de Cálculo numérico - Cap.7
 Profa: Patrícia Buzzatto Siqueira
